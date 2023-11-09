@@ -1,7 +1,44 @@
+#wrapper {
+    width: 800px;
+    margin: auto;
+}
+
+header {
+    background-color: pink;
+}
+nav {
+    background-color: cornflowerblue;
+    display: inline-block;
+    padding: 10px;
+    width: 200px;
+}
+
+.red-font {
+    color: red;
+}
+
+main {
+    background-color: red;
+    display: inline-block;
+    width: 550px;
+}
+
+img {
+    width: 100%;
+}
+
 h1 {
     font-family: "Comic Sans MS", sans-serif;
 }
 
 h3 {
     color: violet;
+}
+
+p {
+    color: green;
+}
+
+footer {
+    background-color: #4a412a;
 }

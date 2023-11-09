@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    font-family: "Rotis Sans-Serif", "Arial", sans-serif;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-weight: lighter;
+    letter-spacing: 0.2em;
+    margin-bottom: 0;
+}
+
+h3 {
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+h5 {
+    color: red;
+}
+
+li {
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
